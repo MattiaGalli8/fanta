@@ -1,0 +1,22 @@
+ *{ 
+    box-sizing: border-box;
+
+
+div {
+    background-color: crimson;
+    width: 30%;
+    margin: 7% auto;
+    padding: 3%;
+    border: 26px black solid;
+    
+}
+div + div {
+    background-color: blue;
+    border-top-width: 10px; border-right-width: 30px; border-top-color: black; border-right-color: darkgreen; border-style: groove;
+    color: gainsboro;
+}
+
+body {
+    background-color: deeppink;
+}
+}

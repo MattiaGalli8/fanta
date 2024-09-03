@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+p{
+    background-color: red;
+    margin: 10px;
+    border: 28px solid green;
+}
+
+div {
+    background-color: yellow;
+    padding: 30px ;
+}
+span{
+    background-color: blue;
+    display: inline-block;
+    color: beige;
+    width: 33%;
+}
+
+ul {
+    padding-left: 50px;
+}
+
+ul li {
+    /* list-style-type: square; */
+    list-style-image: url(../../assets/img/icons8-ac-milan-50.png);
+    
+}
+
+ol li {
+    list-style-type: georgian;
+}

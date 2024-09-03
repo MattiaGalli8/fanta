@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 0;
+    margin: 0;
+    
+}
+
+div {
+    font-size: 16px;
+    
+}
+.card-container {
+    display: inline-block;
+    background-color: aqua;
+    width: calc(33.33% - 2px)   ;
+    margin: 1px;
+    border: black ridge 20px
+    
+}
+
+
+.card-finale {
+    background-color: black;
+    color: burlywood;
+}

@@ -1,0 +1,20 @@
+/* struttura generica di una regola css:
+
+selettore {
+    proprietàcss1: valorecss1;
+    proprietàcss2: valorecss2;
+}
+
+selettore2 {
+    proprietàcss1: valorecss1;
+    proprietàcss2: valorecss2;
+}
+
+selettore3 {
+    proprietàcss1: valorecss1;
+    proprietàcss2: valorecss2;
+} */
+
+body {
+    background-color: blue;
+} 

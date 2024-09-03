@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 0;
+    margin: 0; 
+    background-color: rgb(205, 180, 15); 
+    
+}
+
+div {
+    font-size: 16px;
+    
+    
+}
+
+.titolo {
+    color: crimson;
+    background-color: cadetblue;
+    text-align: center;
+    padding: 10px;
+    border: 1px SOLID black;
+}
+
+.ergali {
+    color: orange;
+    background-color: grey;
+    text-align: center;
+    padding: 5px;
+}
+
+ol li {
+    text-align: left  ;
+    font-size: larger;
+}
+
+.portieri {
+    display: inline-block;
+    color: black;
+    background-color: darkorange;
+    border: black 5px solid;
+    width: calc(25% - 2px);
+    margin: 1px;
+    text-align: center;
+    
+    
+    
+}
+.listapor {
+    color: darkorange;
+    background-color: black;
+    padding: 0.1px;
+    border-bottom: black 2px solid;
+    
+    
+}
+
+.difensori {
+    display: inline-block;
+    color: black;
+    background-color: rgb(12, 154, 12);
+    border: black 5px solid;
+    width: calc(25% - 2px);
+    margin: 1px;
+    text-align: center;
+    
+}
+.listadif {
+    color: rgb(12, 154, 12);
+    background-color: black;
+    border-top: black 3px solid;
+    border-bottom: black 3px solid;
+    
+}
+
+.centrocampisti {
+    display: inline-block;
+    color: black;
+    background-color: rgb(12, 83, 154);
+    border: black 5px solid;
+    width: calc(25% - 2px);
+    margin: 1px;
+    text-align: center;
+    
+}
+.listacen {
+    color: rgb(12, 83, 154);
+    background-color: black;
+    border-top: black 3px solid;
+    border-bottom: black 3px solid;
+    
+}
+
+.attaccanti {
+    display: inline-block;
+    color: black;
+    background-color: rgb(178, 27, 24);
+    border: black 5px solid;
+    width: calc(25% - 2px);
+    margin: 1px;
+    text-align: center;
+    
+}
+.listaatt {
+    color: rgb(178, 27, 24);
+    background-color: black;
+    border-top: black 8px solid;
+    border-bottom: black 3px solid;
+    
+}
